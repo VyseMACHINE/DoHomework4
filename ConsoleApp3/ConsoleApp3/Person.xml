@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Class>
+  <Person FullName="" Age="">
+   <FullName>Admin Admin</FullName>
+   <Age>35</Age>
+  
+   <FullName>Admin Admin</FullName>
+   <Age>35</Age>
+</Person>
+
+<Car Mark="" Year="">
+   <Mark>BMW</Mark>
+   <Year>2000</Year>
+
+  <Mark>Mercedes</Mark>
+   <Year>2000</Year>
+</Car>
+
+<Home Adress="" Square="">
+   <Adress>Улица Пушкина</Adress>
+   <Square>150</Square>
+
+  <Adress>Улица Пушкина</Adress>
+   <Square>200</Square>
+</Home>
+
+</Class>
+
+
