@@ -1,0 +1,13 @@
+﻿var Person; 
+	Person = {
+	"Name": "Admin Admin",
+	"Age": 35,
+	"Car": {
+		"Car1": "BMW",
+		"Car2": "Mercedes"
+	},
+	"Home": {
+		"Adress": "Улица Пушкина",
+		"Square": 200
+	}
+}
